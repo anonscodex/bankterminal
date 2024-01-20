@@ -1,0 +1,1 @@
+[{"accountName":"Ayo","accountNumber":711754021,"pin":3902,"funds":2000,"transactions":["Deposit of 5000 at 1/20/2024, 9:43:13 AM","Transfer of 2500 to Abdul at 1/20/2024, 9:44:21 AM","Withdrawal of 500 at 1/20/2024, 9:45:06 AM"]},{"accountName":"Abdul","accountNumber":12268670,"pin":2061,"funds":2500,"transactions":["Credit of 2500 from Ayo at 1/20/2024, 9:44:21 AM"]}]
